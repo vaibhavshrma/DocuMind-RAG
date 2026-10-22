@@ -155,4 +155,4 @@ DocuMind was developed as a hands-on project to explore Retrieval-Augmented Gene
 
 ## 📄 License
 
-A license has not yet been selected. Add a license file before presenting the repository as open source.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
